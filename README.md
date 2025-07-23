@@ -78,6 +78,9 @@
 [
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge" alt="Apache Kafka">
 ](https://kafka.apache.org/)
+[
+<img src="https://img.shields.io/badge/Langchain-1d3d3c?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+](https://www.langchain.com/)
 <!-- ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
