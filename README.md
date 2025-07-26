@@ -81,6 +81,9 @@
 [
 <img src="https://img.shields.io/badge/Langchain-1d3d3c?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
 ](https://www.langchain.com/)
+[
+<img src="https://img.shields.io/badge/LangGraph-053d5b?style=for-the-badge&logo=langgraph&logoColor=white" alt="Langgraph">
+](https://www.langchain.com/langgraph)
 <!-- ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
