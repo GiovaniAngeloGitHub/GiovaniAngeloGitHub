@@ -27,7 +27,9 @@
 [
 <img alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 ](https://go.dev/)
-[<img alt="rust" width="90px" src="https://img.shields.io/badge/Rust-ffffff?style=for-the-badge&logo=rust&logoColor=black"/>](https://www.rust-lang.org/)
+[
+<img alt="rust" src="https://img.shields.io/badge/Rust-ffffff?style=for-the-badge&logo=rust&logoColor=black"/>
+](https://www.rust-lang.org/)
 
 ### Tools
 [
